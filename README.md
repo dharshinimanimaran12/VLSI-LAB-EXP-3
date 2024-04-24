@@ -62,12 +62,12 @@ endmodule
 ~~~
 **Output Waveform**
 
-![image](https://github.com/kameshgopi/VLSI-LAB-EXP-3/assets/164839944/4ed5d6d0-96f3-467a-8c2b-342009a53121)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-3/assets/167978093/aa0ffcf0-efd0-4a20-9d71-1779ec04c3a3)
 
 **4bit
 LOGIC DIAGRAM**
 
-![image](https://github.com/kameshgopi/VLSI-LAB-EXP-3/assets/164839944/f56e69a3-430b-4a1c-8b6f-3d6f7c23bc3f)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-3/assets/167978093/b43dcfbc-33a4-4d13-b892-59577795430a)
 
 
 **VERILOG CODE
@@ -131,7 +131,7 @@ endmodule
 
 **OUTPUT WAVEFORM**
 
-![image](https://github.com/kameshgopi/VLSI-LAB-EXP-3/assets/164839944/935eb506-d6be-4308-ae73-fbb3c34106d9)
+![image](https://github.com/dharshinimanimaran12/VLSI-LAB-EXP-3/assets/167978093/14c6281c-c7b1-41ff-afbd-f03e82d96df0)
 
 
 
